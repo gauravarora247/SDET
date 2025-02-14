@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59074998-d637-4def-bc87-88ab3ef95960" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/task_ques.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Armstrong_31jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atm_withdrawl_condition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Check_prime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Electricity_bill_31jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Equilateral_triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Largest_Three_num_30jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Largest_two_num_30jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loan_Eligibility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loan_Eligibility_31jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome_31jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Salary_EOY_31jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smallest_of_Three_30jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visa_Eligibility_31jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vowels_and_consonants_29jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/character_is_alphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leap_year.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/.idea/task_ques.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Armstrong_31jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Atm_withdrawl_condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Check_prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Electricity_bill_31jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Equilateral_triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Largest_Three_num_30jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Largest_two_num_30jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Loan_Eligibility_31jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Palindrome_31jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Salary_EOY_31jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Smallest_of_Three_30jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Visa_Eligibility_31jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/Vowels_and_consonants_29jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/character_is_alphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/leap_year.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/ques1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/ques1_29jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/ques2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/ques2_29jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/ques3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/ques4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/task_ques/vote_eligibilty_29jan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques1_29jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques2_29jan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ques4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vote_eligibilty_29jan.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gauravarora247&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gauravarora247/SDET.git&quot;,
+    &quot;accountId&quot;: &quot;7182bb85-fab0-4f1b-9815-91864c654eb9&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sP8lEorbvQWCtHwzMXQoGNcPWz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong_31jan.executor": "Run",
+    "Application.Atm_withdrawl_condition.executor": "Run",
+    "Application.Check_prime.executor": "Run",
+    "Application.Electricity_bill_31jan.executor": "Run",
+    "Application.Equilateral_triangle.executor": "Run",
+    "Application.Grade.executor": "Run",
+    "Application.Largest_Three_num_30jan.executor": "Run",
+    "Application.Largest_two_num_30jan.executor": "Run",
+    "Application.Loan_Eligibility.executor": "Run",
+    "Application.Loan_Eligibility_31jan.executor": "Debug",
+    "Application.Palindrome.executor": "Run",
+    "Application.Salary_EOY_31jan.executor": "Run",
+    "Application.Smallest_of_Three_30jan.executor": "Run",
+    "Application.Visa_Eligibility_31jan.executor": "Run",
+    "Application.Vowels_and_consonants_29jan.executor": "Run",
+    "Application.character_is_alphabet.executor": "Run",
+    "Application.leap_year.executor": "Run",
+    "Application.ques1.executor": "Run",
+    "Application.ques1_29jan.executor": "Debug",
+    "Application.ques2.executor": "Run",
+    "Application.ques2_29jan.executor": "Run",
+    "Application.ques3.executor": "Run",
+    "Application.ques4.executor": "Run",
+    "Application.vote_eligibilty_29jan.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ntlpt53/Documents/Software_Testing/SDET_class_labs_questions"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Visa_Eligibility_31jan">
+    <configuration name="Armstrong_31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Armstrong_31jan" />
+      <module name="task_ques" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Electricity_bill_31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Electricity_bill_31jan" />
+      <module name="task_ques" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loan_Eligibility_31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loan_Eligibility_31jan" />
+      <module name="task_ques" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Salary_EOY_31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Salary_EOY_31jan" />
+      <module name="task_ques" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Visa_Eligibility_31jan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Visa_Eligibility_31jan" />
+      <module name="task_ques" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Visa_Eligibility_31jan" />
+        <item itemvalue="Application.Salary_EOY_31jan" />
+        <item itemvalue="Application.Electricity_bill_31jan" />
+        <item itemvalue="Application.Loan_Eligibility_31jan" />
+        <item itemvalue="Application.Armstrong_31jan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59074998-d637-4def-bc87-88ab3ef95960" name="Changes" comment="" />
+      <created>1738345998369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738345998369</updated>
+    </task>
+    <servers />
+  </component>
+</project>
